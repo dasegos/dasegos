@@ -29,9 +29,9 @@ My name's Pauline, I am an ambitious Python Backend developer 🤫
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
-> 🔥 Exploring & working on now: **Django**, **DRF**, **Asyncio**, **Threading**, **Celery**, **FastAPI**  
-> 👍 Want to improve: **Docker**, **JavaScript**  
-> 💥 Andvantageous to start: **C/C++**, **Machine Learning**, **React.js**, **Vue.js**      
+🔥 Exploring & working on now: **Django**, **DRF**, **Asyncio**, **Threading**, **Celery**, **FastAPI**    
+👍 Want to improve: **Docker**, **JavaScript**, **C#**   
+💥 Andvantageous to start: **C/C++**, **Machine Learning**, **React.js**, **Vue.js**       
 
 ## ⚱️ [Github trofies](https://github-profile-trophy.vercel.app/?username=PolinaS0463)
 
@@ -48,6 +48,8 @@ My name's Pauline, I am an ambitious Python Backend developer 🤫
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PolinaS0463&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PolinaS0463&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PolinaS0463&theme=solarized_dark)
+
+
 
 <!---
 PolinaS0463/PolinaS0463 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
