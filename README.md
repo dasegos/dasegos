@@ -34,11 +34,11 @@ My name's Pauline, I am an ambitious Python Backend developer 🤫
 
 ## ⚱️ [Github trofies](https://github-profile-trophy.vercel.app/?username=PolinaS0463)
 
-<div align='center'>[![trophy](https://github-profile-trophy.vercel.app/?username=PolinaS0463)](https://github.com/PolinaS0463-ma/github-profile-trophy)</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=PolinaS0463)](https://github.com/PolinaS0463-ma/github-profile-trophy)
 
 ## 🔥 [Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=PolinaS0463)
 
-<div align='center'>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PolinaS0463)](https://git.io/streak-stats)</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PolinaS0463)](https://git.io/streak-stats)
 
 <!---
 PolinaS0463/PolinaS0463 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
