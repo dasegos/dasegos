@@ -27,19 +27,18 @@ My name's Pauline, I am an ambitious Python Backend developer 🤫
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-> 🔥 Exploring & working on now: **Django**, **DRF**, **Asyncio**, **Threading**, **Celery**, **FastAPI**
-> 👍 Want to improve: **Docker**, **JavaScript**
-> 💥 Andvantageous to start: **C/C++**, **Machine Learning**, **React.js**, **Vue.js**  
+> 🔥 Exploring & working on now: **Django**, **DRF**, **Asyncio**, **Threading**, **Celery**, **FastAPI**  
+> 👍 Want to improve: **Docker**, **JavaScript**  
+> 💥 Andvantageous to start: **C/C++**, **Machine Learning**, **React.js**, **Vue.js**      
 
-## ⚱️ GitHub trofies
+## ⚱️ [Github trofies](https://github-profile-trophy.vercel.app/?username=PolinaS0463)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PolinaS0463)](https://github.com/PolinaS0463-ma/github-profile-trophy)
+<div align='center'>[![trophy](https://github-profile-trophy.vercel.app/?username=PolinaS0463)](https://github.com/PolinaS0463-ma/github-profile-trophy)</div>
 
-## 🔥 Current Streak
+## 🔥 [Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=PolinaS0463)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PolinaS0463)](https://git.io/streak-stats)
+<div align='center'>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PolinaS0463)](https://git.io/streak-stats)</div>
 
 <!---
 PolinaS0463/PolinaS0463 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
