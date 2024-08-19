@@ -33,6 +33,9 @@ My name's Pauline, I am an ambitious Python Backend developer 🤫
 > Want to improve: **Docker**, **JavaScript** 👍  
 > Andvantageous to start: **C/C++**, **Machine Learning**, **React.js**, **Vue.js** 💥  
 
+## ⚱️ GitHub trofies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PolinaS0463)](https://github.com/PolinaS0463-ma/github-profile-trophy)
 
 
 <!---
