@@ -1,5 +1,3 @@
-![python](https://github.com/user-attachments/assets/62fe0b60-509a-4545-be15-ea12f98a5422)
-
 Hi, guys!
 My name's Pauline, I am an ambitious Python Backend developer 🤫
 <h2>My stack 😎</h2>
