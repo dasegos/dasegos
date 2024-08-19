@@ -41,6 +41,10 @@ My name's Pauline, I am an ambitious Python Backend developer 🤫
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PolinaS0463)](https://git.io/streak-stats)
 
+## 📋 [Stats](https://github-readme-stats.vercel.app/api?username=PolinaS0463)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PolinaS0463)](https://github.com/PolinaS0463/github-readme-stats)
+
 <!---
 PolinaS0463/PolinaS0463 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
