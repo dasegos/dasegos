@@ -29,14 +29,17 @@ My name's Pauline, I am an ambitious Python Backend developer 🤫
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-> Exploring & working on now: **Django**, **DRF**, **Asyncio**, **Threading**, **Celery**, **FastAPI** 🔥  
-> Want to improve: **Docker**, **JavaScript** 👍  
-> Andvantageous to start: **C/C++**, **Machine Learning**, **React.js**, **Vue.js** 💥  
+> 🔥 Exploring & working on now: **Django**, **DRF**, **Asyncio**, **Threading**, **Celery**, **FastAPI**
+> 👍 Want to improve: **Docker**, **JavaScript**
+> 💥 Andvantageous to start: **C/C++**, **Machine Learning**, **React.js**, **Vue.js**  
 
 ## ⚱️ GitHub trofies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PolinaS0463)](https://github.com/PolinaS0463-ma/github-profile-trophy)
 
+## 🔥 Current Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PolinaS0463)](https://git.io/streak-stats)
 
 <!---
 PolinaS0463/PolinaS0463 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
