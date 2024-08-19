@@ -29,9 +29,9 @@ My name's Pauline, I am an ambitious Python Backend developer 🤫
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-> Exploring & working on now: **Django**, **DRF**, **Asyncio**, **Threading**, **Celery**, **FastAPI** 🔥
-> Want to improve: **Docker**, **JavaScript** 👍
-> Andvantageous to start: **C/C++**, **Machine Learning**, **React.js**, **Vue.js** 💥
+> Exploring & working on now: **Django**, **DRF**, **Asyncio**, **Threading**, **Celery**, **FastAPI** 🔥  
+> Want to improve: **Docker**, **JavaScript** 👍  
+> Andvantageous to start: **C/C++**, **Machine Learning**, **React.js**, **Vue.js** 💥  
 
 
 
