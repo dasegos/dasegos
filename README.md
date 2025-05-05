@@ -1,6 +1,4 @@
-Hi, guys!
-My name's Pauline, I am an ambitious Python Backend developer 🤫
-<h2>My stack 😎</h2>
+<h2>My stack</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -28,30 +26,3 @@ My name's Pauline, I am an ambitious Python Backend developer 🤫
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-
-🔥 Exploring & working on now: **Django**, **DRF**, **Asyncio**, **Threading**, **Celery**, **FastAPI**    
-👍 Want to improve: **Docker**, **JavaScript**, **C#**   
-💥 Andvantageous to start: **C/C++**, **Machine Learning**, **React.js**, **Vue.js**       
-
-## ⚱️ [Github trofies](https://github-profile-trophy.vercel.app/?username=PolinaS0463)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PolinaS0463)](https://github.com/PolinaS0463-ma/github-profile-trophy)
-
-## 🔥 [Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=PolinaS0463)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PolinaS0463)](https://git.io/streak-stats)
-
-## 📋 [Stats](https://github-readme-stats.vercel.app/api?username=PolinaS0463)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PolinaS0463&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PolinaS0463&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PolinaS0463&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PolinaS0463&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PolinaS0463&theme=solarized_dark)
-
-
-
-<!---
-PolinaS0463/PolinaS0463 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
